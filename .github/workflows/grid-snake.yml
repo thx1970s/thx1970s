@@ -1,5 +1,4 @@
 # GitHub Action for generating a contribution graph with a snake eating your contributions.
-# GitHub Action для создания графика вкладов со змеей, пожирающей ваши взносы.
 
 name: Generate Snake
 
@@ -11,11 +10,9 @@ on:
     - cron: "0 */6 * * *"
 
 # This command allows us to run the Action automatically from the Actions tab.
-# Эта команда позволяет нам автоматически запускать действие с вкладки «Действия».
   workflow_dispatch:
 
 # The sequence of runs in this workflow:
-# Последовательность прогонов в этом рабочем процессе:
 jobs:
   # This workflow contains a single job called "build"
   build:
@@ -32,7 +29,7 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: BEPb
+          github_user_name: thx1970s
           # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
