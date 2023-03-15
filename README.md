@@ -1,10 +1,9 @@
 # good good studdy, day day up!
-## 😄 😆 😊 😃 😏 😍 😘 😚 😳 😌 😆 😁 😉 😜 😝 😀
 
+### 😄 😆 😊 😃 😏 😍 😘 😚 😳 😌 😆 😁 😉 😜 😝 😀
 
-<a href="https://github.com/thx1970s/iBeats"><img align="right" width="125px" src="https://raw.githubusercontent.com/thx1970s/iBeats/main/files/heart.svg"/> </a>
+<a href="https://github.com/thx1970s/iBeats"><img align="right" width="100px" src="https://raw.githubusercontent.com/thx1970s/iBeats/main/files/heart.svg"/> </a>
 
-<br/>
 <br/>
 <br/>
 <br/>
