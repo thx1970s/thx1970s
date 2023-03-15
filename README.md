@@ -12,7 +12,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/thx1970s?template=classic&config.timezone=Asia%2FChongqing">
+  <img src="https://metrics.lecoq.io/thx1970s?template=classic&config.timezone=Asia%2FShanghai">
 </div>
 
 <br/>
