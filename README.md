@@ -1,3 +1,7 @@
+### good good studdy, day day up! - Unreal engine dev.
+
+<div align="center"> <img src="https://metrics.lecoq.io/insights/thx1970s?template=classic&config.timezone=Asia%2FShanghai"> </div>
+
 <a href="https://github.com/thx1970s/iBeats"><img align="right" width="150px" src="https://raw.githubusercontent.com/thx1970s/iBeats/main/files/heart.svg"/></a>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=thx1970s"></img>
