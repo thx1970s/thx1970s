@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/thx1970s/iBeats">
+  <a href="https://github.com/thx1970s">
     <img src="https://raw.githubusercontent.com/thx1970s/thx1970s/main/assets/heartbeat.svg" alt="heartbeat" />
   </a>
 </div>
@@ -9,7 +9,7 @@
 ## 🙋 About Me
 
 - 🎮 Crafting real-time experiences with **Unreal Engine**
-- ❤️ Building [**iBeats**](https://github.com/thx1970s/iBeats) — Apple Watch heart-rate collection
+- ⌚ Exploring Apple Watch heart-rate data — [iBeats](https://github.com/yihong0618/iBeats)
 - 🧠 Exploring AI-assisted development workflows
 - 🚀 Always learning, always shipping
 
@@ -60,7 +60,6 @@
 
 <div align="center">
   <a href="https://github.com/thx1970s"><img src="https://img.shields.io/badge/GitHub-thx1970s-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://github.com/thx1970s/iBeats"><img src="https://img.shields.io/badge/iBeats-Apple%20Watch%20Heartbeat-E96443?style=for-the-badge" /></a>
   <br/>
   <sub>Made with ❤️ · good good study, day day up!</sub>
 </div>
