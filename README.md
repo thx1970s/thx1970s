@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/thx1970s/thx1970s/main/assets/heartbeat.svg" alt="heartbeat" />
+  <img src="https://raw.githubusercontent.com/thx1970s/thx1970s/main/assets/heartbeat.svg?v=5" alt="heartbeat" />
 </div>
 
 <br/>
@@ -7,7 +7,7 @@
 ## 🏡 Farm Scene
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/thx1970s/thx1970s/main/assets/pixel-pet.svg" alt="farm scene" />
+  <img src="https://raw.githubusercontent.com/thx1970s/thx1970s/main/assets/pixel-pet.svg?v=5" alt="farm scene" />
 </div>
 
 <br/>
@@ -72,5 +72,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/thx1970s/thx1970s/main/assets/footer-bg.svg" alt="" />
+  <img src="https://raw.githubusercontent.com/thx1970s/thx1970s/main/assets/footer-bg.svg?v=5" alt="" />
 </div>
