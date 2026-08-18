@@ -4,14 +4,6 @@
 
 <br/>
 
-## 🏡 Farm Scene
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/thx1970s/thx1970s/main/assets/pixel-pet.svg?v=8" alt="farm scene" />
-</div>
-
-<br/>
-
 ## 🙋 About Me
 
 - 🎮 Crafting real-time experiences with **Unreal Engine**
