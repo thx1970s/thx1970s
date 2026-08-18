@@ -6,10 +6,19 @@
 
 <br/>
 
+## 🕹️ Pixel Pet
+
+<div align="center">
+  <a href="https://github.com/thx1970s">
+    <img src="https://raw.githubusercontent.com/thx1970s/thx1970s/main/assets/pixel-pet.svg" alt="pixel pet" />
+  </a>
+</div>
+
+<br/>
+
 ## 🙋 About Me
 
 - 🎮 Crafting real-time experiences with **Unreal Engine**
-- ⌚ Exploring Apple Watch heart-rate data — [iBeats](https://github.com/yihong0618/iBeats)
 - 🧠 Exploring AI-assisted development workflows
 - 🚀 Always learning, always shipping
 
