@@ -1,17 +1,13 @@
 <div align="center">
-  <a href="https://github.com/thx1970s">
-    <img src="https://raw.githubusercontent.com/thx1970s/thx1970s/main/assets/heartbeat.svg" alt="heartbeat" />
-  </a>
+  <img src="https://raw.githubusercontent.com/thx1970s/thx1970s/main/assets/heartbeat.svg" alt="heartbeat" />
 </div>
 
 <br/>
 
-## 🕹️ Pixel Pet
+## 🏡 Stardew Valley
 
 <div align="center">
-  <a href="https://github.com/thx1970s">
-    <img src="https://raw.githubusercontent.com/thx1970s/thx1970s/main/assets/pixel-pet.svg" alt="pixel pet" />
-  </a>
+  <img src="https://raw.githubusercontent.com/thx1970s/thx1970s/main/assets/pixel-pet.svg" alt="stardew valley" />
 </div>
 
 <br/>
@@ -71,4 +67,10 @@
   <a href="https://github.com/thx1970s"><img src="https://img.shields.io/badge/GitHub-thx1970s-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <br/>
   <sub>Made with ❤️ · good good study, day day up!</sub>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/thx1970s/thx1970s/main/assets/footer-bg.svg" alt="" />
 </div>
