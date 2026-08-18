@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/thx1970s/thx1970s/main/assets/heartbeat.svg?v=8" alt="heartbeat" />
+  <img src="https://raw.githubusercontent.com/thx1970s/thx1970s/main/assets/heartbeat.svg?v=9" alt="heartbeat" />
 </div>
 
 <br/>
@@ -64,5 +64,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/thx1970s/thx1970s/main/assets/footer-bg.svg?v=8" alt="" />
+  <img src="https://raw.githubusercontent.com/thx1970s/thx1970s/main/assets/footer-bg.svg?v=9" alt="" />
 </div>
