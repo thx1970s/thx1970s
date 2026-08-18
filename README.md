@@ -4,10 +4,10 @@
 
 <br/>
 
-## 🏡 Stardew Valley
+## 🏡 Farm Scene
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/thx1970s/thx1970s/main/assets/pixel-pet.svg" alt="stardew valley" />
+  <img src="https://raw.githubusercontent.com/thx1970s/thx1970s/main/assets/pixel-pet.svg" alt="farm scene" />
 </div>
 
 <br/>
