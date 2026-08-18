@@ -1,16 +1,12 @@
-# 👋 Hi there, I'm Changqing
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3200&pause=900&color=E96443&center=true&vCenter=true&multiline=false&width=640&height=50&lines=Unreal+Engine+Developer;C%2B%2B+%2F+C%23+%2F+Python;Apple+Watch+Heartbeat;Good+good+study%2C+day+day+up!" />
+  <a href="https://github.com/thx1970s/iBeats">
+    <img src="https://raw.githubusercontent.com/thx1970s/thx1970s/main/assets/heartbeat.svg" alt="heartbeat" />
+  </a>
 </div>
 
 <br/>
 
 ## 🙋 About Me
-
-<div align="right">
-  <a href="https://github.com/thx1970s/iBeats"><img src="https://raw.githubusercontent.com/thx1970s/iBeats/main/files/heart.svg" width="88px" alt="iBeats"/></a>
-</div>
 
 - 🎮 Crafting real-time experiences with **Unreal Engine**
 - ❤️ Building [**iBeats**](https://github.com/thx1970s/iBeats) — Apple Watch heart-rate collection
@@ -50,8 +46,21 @@
 
 <br/>
 
+<details>
+  <summary>💬 Dev Quote · <i>click to reveal</i></summary>
+  <br/>
+  <div align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  </div>
+</details>
+
+<br/>
+
 ---
 
 <div align="center">
+  <a href="https://github.com/thx1970s"><img src="https://img.shields.io/badge/GitHub-thx1970s-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/thx1970s/iBeats"><img src="https://img.shields.io/badge/iBeats-Apple%20Watch%20Heartbeat-E96443?style=for-the-badge" /></a>
+  <br/>
   <sub>Made with ❤️ · good good study, day day up!</sub>
 </div>

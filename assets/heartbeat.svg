@@ -1,0 +1,22 @@
+<svg width="680" height="110" viewBox="0 0 680 110" xmlns="http://www.w3.org/2000/svg">
+  <title>Heartbeat</title>
+  <defs>
+    <linearGradient id="line" x1="0" y1="0" x2="680" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E96443"/>
+      <stop offset="0.5" stop-color="#F06292"/>
+      <stop offset="1" stop-color="#904E95"/>
+    </linearGradient>
+    <style>
+      @keyframes draw { from { stroke-dashoffset: 1200; } to { stroke-dashoffset: 0; } }
+      @keyframes beat { 0%,100% { transform: scale(1); } 12% { transform: scale(1.14); } 24% { transform: scale(1); } 36% { transform: scale(1.14); } 50% { transform: scale(1); } }
+      @keyframes glow { 0%,100% { opacity: 0.12; } 50% { opacity: 0.45; } }
+      .ecg  { stroke-dasharray: 1200; animation: draw 3.6s linear infinite; }
+      .heart { transform-box: fill-box; transform-origin: center; animation: beat 1.1s ease-in-out infinite; }
+      .glow { animation: glow 2.2s ease-in-out infinite; }
+    </style>
+  </defs>
+  <rect width="680" height="110" rx="16" fill="#0D1117"/>
+  <circle class="glow" cx="39" cy="55" r="34" fill="url(#line)"/>
+  <path class="heart" d="M39,42 C30,33 15,40 15,49 C15,59 26,68 39,77 C52,68 63,59 63,49 C63,40 48,33 39,42 Z" fill="url(#line)"/>
+  <path class="ecg" d="M110,55 L138,55 L142,48 L150,48 L154,55 L178,55 L182,55 L186,40 L190,55 L194,70 L198,55 L216,55 L220,47 L230,47 L234,55 L262,55 L290,55 L294,48 L302,48 L306,55 L330,55 L334,55 L338,40 L342,55 L346,70 L350,55 L368,55 L372,47 L382,47 L386,55 L414,55 L442,55 L446,48 L454,48 L458,55 L482,55 L486,55 L490,40 L494,55 L498,70 L502,55 L520,55 L524,47 L534,47 L538,55 L566,55 L594,55 L598,48 L606,48 L610,55 L634,55 L638,55 L642,40 L646,55 L650,70 L654,55 L672,55 L676,47 L680,55" fill="none" stroke="url(#line)" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
