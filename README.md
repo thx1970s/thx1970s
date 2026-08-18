@@ -1,48 +1,57 @@
-# good good study, day day up!
+# 👋 Hi there, I'm Changqing
 
-### 😄 😆 😊 😃 😏 😍 😘 😚 😳 😌 😆 😁 😉 😜 😝 😀
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3200&pause=900&color=E96443&center=true&vCenter=true&multiline=false&width=640&height=50&lines=Unreal+Engine+Developer;C%2B%2B+%2F+C%23+%2F+Python;Apple+Watch+Heartbeat;Good+good+study%2C+day+day+up!" />
+</div>
 
-<a href="https://github.com/thx1970s/iBeats"><img align="right" width="120px" src="https://raw.githubusercontent.com/thx1970s/iBeats/main/files/heart.svg"/> </a>
+<br/>
+
+## 🙋 About Me
+
+<div align="right">
+  <a href="https://github.com/thx1970s/iBeats"><img src="https://raw.githubusercontent.com/thx1970s/iBeats/main/files/heart.svg" width="88px" alt="iBeats"/></a>
+</div>
+
+- 🎮 Crafting real-time experiences with **Unreal Engine**
+- ❤️ Building [**iBeats**](https://github.com/thx1970s/iBeats) — Apple Watch heart-rate collection
+- 🧠 Exploring AI-assisted development workflows
+- 🚀 Always learning, always shipping
 
 <br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=unreal,cpp,cs,python,nodejs,powershell&perline=6" />
+</div>
+
 <br/>
-<br/>
-<br/>
-<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thx1970s&theme=radical" />
+</div>
+
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thx1970s&theme=radical">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thx1970s&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thx1970s&theme=radical" />
 </div>
 
 <br/>
-<br/>
 
-<div align="center"> <img src="https://streak-stats.demolab.com/?user=thx1970s"></img> </div>
+## 🐍 Contribution Snake
 
-<br/>
-
-<div align="right">
-  <img src="https://api.visitorbadge.io/api/visitors?path=thx1970s&label=Visitors&countColor=%23263759" /> 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/thx1970s/thx1970s/main/assets/github-contribution-grid-snake.svg" />
 </div>
 
 <br/>
 
 ---
 
-### My GitHub Contributions
-
-![](https://raw.githubusercontent.com/thx1970s/thx1970s/main/assets/github-contribution-grid-snake.svg)
-
-### My GitHub Stats
-![Changqing's GitHub stats](https://github-readme-stats.vercel.app/api?username=thx1970s&include_all_commits=true&show_icons=true&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thx1970s&layout=compact)
-
-<br/>
-
----
-
-<br/>
-
-### 📈 My GitHub Stats Graph:
-[![Changqing's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thx1970s&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+<div align="center">
+  <sub>Made with ❤️ · good good study, day day up!</sub>
+</div>
