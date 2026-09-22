@@ -1,0 +1,5 @@
+# local scratch / build previews for the SVG art generators
+.preview/
+
+# dependencies
+node_modules/

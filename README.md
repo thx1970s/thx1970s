@@ -1,5 +1,13 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/thx1970s/thx1970s/main/assets/heartbeat.svg?v=9" alt="heartbeat" />
+  <img src="https://raw.githubusercontent.com/thx1970s/thx1970s/main/assets/heartbeat.svg?v=10" alt="pixel ECG heartbeat monitor" />
+</div>
+
+<br/>
+
+## 🏡 Farm Scene
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/thx1970s/thx1970s/main/assets/farm-scene.svg?v=10" alt="Stardew-style pixel farm (animated day and night)" />
 </div>
 
 <br/>
@@ -23,14 +31,14 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thx1970s&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thx1970s&theme=gruvbox" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thx1970s&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thx1970s&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thx1970s&theme=gruvbox" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thx1970s&theme=gruvbox" />
 </div>
 
 <br/>
@@ -47,7 +55,7 @@
   <summary>💬 Dev Quote · <i>click to reveal</i></summary>
   <br/>
   <div align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
   </div>
 </details>
 
@@ -64,5 +72,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/thx1970s/thx1970s/main/assets/footer-bg.svg?v=9" alt="" />
+  <img src="https://raw.githubusercontent.com/thx1970s/thx1970s/main/assets/footer-bg.svg?v=10" alt="" />
 </div>
